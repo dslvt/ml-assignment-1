@@ -15,6 +15,9 @@ scikit-learn 1.1.2
 
 imbalanced-learn 0.9.1
 
+## EDA
+EDA located at [there](EDA.ipynb)
+
 ## Run
 
 To run classification tasks:
